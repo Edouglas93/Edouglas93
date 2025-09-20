@@ -1,21 +1,22 @@
 
 <h1 align="center">Hi 👋, I'm Elijah</h1>
-<h3 align="center">A passionate Full Stack Web Developer from Arizona</h3>
+<h3 align="center">A passionate NetSuite Developer and Celigo Integrator from Arizona</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/5eKX.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edouglas93&label=Profile%20views&color=0e75b6&style=flat" alt="edouglas93" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edouglas93" alt="edouglas93" /></a> </p>
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=edouglas93" alt="edouglas93" />
+  </a> 
+</p>
 
-- 🔭 I’m currently working on **Current Movie Card Templates**
+- 🔭 I’m currently working on **NetSuite development & Shopify–NetSuite integrations** (Celigo, EDI 850/855/856/810 flows, SuiteScript automation)  
+- 🌱 I’m currently learning **NetSuite Administrator & Developer certifications + advanced integration patterns**  
+- 💬 Ask me about **NetSuite, Celigo, SuiteScript, and building scalable eCommerce integrations**  
+- 📫 How to reach me: **developer.doug93@gmail.com**  
+- ⚡ Fun fact: **I’m documenting my path to becoming a NetSuite/Celigo consultant & content creator while diving into books like _Designing Data-Intensive Applications_**  
 
-- 🌱 I’m currently learning **Sales Force and Soap APIs**
-
-- 💬 Ask me about **Mircosoft Stack**
-
-- 📫 How to reach me **developer.doug93@gmail.com**
-
-- ⚡ Fun fact **I am currently reading "Meditations" by Marcus Aurelius**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
